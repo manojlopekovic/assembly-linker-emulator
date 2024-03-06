@@ -1,4 +1,4 @@
-# Assembly-linker-emulator
+# Assembler-linker-emulator
 
 Two-passage assembly implementation, with arm-like structure where all instructions are 4bytes long.
 
